@@ -1,4 +1,4 @@
-# sample_data.py
+%%writefile sample_data.py
 commands = {
     "print": {
         "description": "文字列や変数の値を出力します。",

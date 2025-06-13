@@ -1,4 +1,4 @@
-# app.py
+%%writefile app.py
 import streamlit as st
 from sample_data import commands
 
